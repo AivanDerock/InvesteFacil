@@ -23,6 +23,7 @@ Organizei o conteúdo de forma objetiva, destacando os conceitos mais relevantes
 ### Seção 1
 
 - [Aula 1 - Em Breve]()
+
 - [Aula 2 - Em Breve]()
 - [Aula 3 - Em Breve]()
 - [Aula 4 - Em Breve]()
